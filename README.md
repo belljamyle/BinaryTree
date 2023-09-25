@@ -6,14 +6,14 @@ Nossa aplicação demonstra o funcionamento de uma árvore binária de busca e a
 
 - Classe "BinaryTree": é nessa classe que as principais funções da aplicação são implementadas.
   - "insert": insere os novos nós na árvore.
-<img width="412" alt="Screenshot 2023-09-24 at 18 52 04" src="https://github.com/belljamyle/BinaryTree/assets/128303802/8bda749f-e9db-4a5b-a706-f11b4ae2b491">
+    <img width="412" alt="Screenshot 2023-09-24 at 18 52 04" src="https://github.com/belljamyle/BinaryTree/assets/128303802/8bda749f-e9db-4a5b-a706-f11b4ae2b491">
   - "search": verifica se o dado passado na função está inserido na árvore ou não.
-<img width="369" alt="Screenshot 2023-09-24 at 20 59 22" src="https://github.com/belljamyle/BinaryTree/assets/128303802/39e5adbd-2f23-41a2-b205-5412fdbf25ff">
+    <img width="369" alt="Screenshot 2023-09-24 at 20 59 22" src="https://github.com/belljamyle/BinaryTree/assets/128303802/39e5adbd-2f23-41a2-b205-5412fdbf25ff">
   - "delete": deleta o valor informado da árvore. Verifica se há o valor inserido na árvore e informa o nó deletado, assim como retorna o nó raiz.
-<img width="509" alt="Screenshot 2023-09-24 at 21 02 10" src="https://github.com/belljamyle/BinaryTree/assets/128303802/7b858ed6-f87a-43b6-8444-64abc0116fc8">
+    <img width="509" alt="Screenshot 2023-09-24 at 21 02 10" src="https://github.com/belljamyle/BinaryTree/assets/128303802/7b858ed6-f87a-43b6-8444-64abc0116fc8">
   - "printTree": imprime a árvore horizontalmente. (Copiado do site: https://www.techiedelight.com/pt/c-program-print-binary-tree/).
-<img width="513" alt="Screenshot 2023-09-24 at 21 10 36" src="https://github.com/belljamyle/BinaryTree/assets/128303802/e9c2068e-b365-4019-88aa-1d879de8e15a">
-
+    <img width="513" alt="Screenshot 2023-09-24 at 21 10 36" src="https://github.com/belljamyle/BinaryTree/assets/128303802/e9c2068e-b365-4019-88aa-1d879de8e15a">
+  
 - Classe "Node": classe do nó da árvore binária. Nele fazemos referência aos nós sucessores da direita e da esquerda e armazenamos o dado do nó.
 <img width="198" alt="Screenshot 2023-09-24 at 21 25 18" src="https://github.com/belljamyle/BinaryTree/assets/128303802/d9827938-49f8-468b-a614-08398a53c7e7">
 
